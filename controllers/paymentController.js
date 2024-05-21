@@ -39,8 +39,8 @@ const createOrder = async(req,res)=>{
                         product_name:req.body.name,
                         description:req.body.description,
                         contact:"8567345632",
-                        name: "Sandeep Sharma",
-                        email: "sandeep@gmail.com"
+                        name: "Ajay Shanker",
+                        email: "ajayshanker18@gmail.com"
                     });
                 }
                 else{
